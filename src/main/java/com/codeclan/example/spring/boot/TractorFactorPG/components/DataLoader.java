@@ -1,10 +1,10 @@
-package com.codeclan.example.TractorFactorPG.components;
+package com.codeclan.example.spring.boot.TractorFactorPG.components;
 
-import com.codeclan.example.TractorFactorPG.ReadCSV;
-import com.codeclan.example.TractorFactorPG.models.Inspector;
-import com.codeclan.example.TractorFactorPG.models.Tractor;
-import com.codeclan.example.TractorFactorPG.repositories.InspectorRepository;
-import com.codeclan.example.TractorFactorPG.repositories.TractorRepository;
+import com.codeclan.example.spring.boot.TractorFactorPG.ReadCSV;
+import com.codeclan.example.spring.boot.TractorFactorPG.models.Inspector;
+import com.codeclan.example.spring.boot.TractorFactorPG.models.Tractor;
+import com.codeclan.example.spring.boot.TractorFactorPG.repositories.InspectorRepository;
+import com.codeclan.example.spring.boot.TractorFactorPG.repositories.TractorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

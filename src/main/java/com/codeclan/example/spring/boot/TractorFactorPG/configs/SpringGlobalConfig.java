@@ -1,4 +1,4 @@
-package com.codeclan.example.TractorFactorPG.configs;
+package com.codeclan.example.spring.boot.TractorFactorPG.configs;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

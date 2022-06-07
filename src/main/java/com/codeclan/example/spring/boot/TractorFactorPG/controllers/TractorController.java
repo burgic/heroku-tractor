@@ -1,7 +1,7 @@
-package com.codeclan.example.TractorFactorPG.controllers;
+package com.codeclan.example.spring.boot.TractorFactorPG.controllers;
 
-import com.codeclan.example.TractorFactorPG.models.Tractor;
-import com.codeclan.example.TractorFactorPG.repositories.TractorRepository;
+import com.codeclan.example.spring.boot.TractorFactorPG.models.Tractor;
+import com.codeclan.example.spring.boot.TractorFactorPG.repositories.TractorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

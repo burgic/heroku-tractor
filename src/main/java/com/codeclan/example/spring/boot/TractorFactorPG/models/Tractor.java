@@ -1,4 +1,4 @@
-package com.codeclan.example.TractorFactorPG.models;
+package com.codeclan.example.spring.boot.TractorFactorPG.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.hibernate.annotations.Cascade;

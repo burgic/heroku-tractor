@@ -1,4 +1,4 @@
-package com.codeclan.example.TractorFactorPG;
+package com.codeclan.example.spring.boot.TractorFactorPG;
 
 import java.util.ArrayList;
 import java.util.List;
