@@ -1,4 +1,4 @@
-package com.codeclan.example.spring.boot.TractorFactorPG;
+package com.codeclan.example.spring.boot.TractorFactorPG.controllers;
 
 import com.codeclan.example.spring.boot.TractorFactorPG.models.Inspector;
 import com.codeclan.example.spring.boot.TractorFactorPG.models.Tractor;
