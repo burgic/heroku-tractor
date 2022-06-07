@@ -1,4 +1,4 @@
-package com.codeclan.example.TractorFactorPG;
+package com.codeclan.example.spring.boot.TractorFactorPG;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
